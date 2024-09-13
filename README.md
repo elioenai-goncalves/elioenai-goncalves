@@ -35,6 +35,9 @@
   <a href="https://elioenai-goncalves.github.io/portfolio/" target="_blank"><img src="./src/image/image portfolio.png" alt="image portfolio" height="30" width="100">
 
   <br>
+  <br>
+  <br>
+  <br>
 
 <div>
   <a href="https://instagram.com/elioenai.goncalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
