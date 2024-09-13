@@ -31,8 +31,7 @@
  
   ### Pra me conhecer melhor me segue nas redes abaixo!
 
-  <h4>Portifólio:</h4>
-  <a href="https://elioenai-goncalves.github.io/portfolio/" target="_blank"><img src="./src/image/image portfolio.png" alt="image portfolio" height="30" width="100">
+  <h4>Portifólio:</h4><a href="https://elioenai-goncalves.github.io/portfolio/" target="_blank"><img src="./src/image/image portfolio.png" alt="image portfolio" height="30" width="100">
 
   <br>
   <br>
