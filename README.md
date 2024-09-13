@@ -31,8 +31,9 @@
  
   ### Pra me conhecer melhor me segue nas redes abaixo!
 
-  <h3>Portifólio:</h3><a href="https://elioenai-goncalves.github.io/portfolio/" target="_blank">
- 
+  <h4>Portifólio:</h4>
+  <a href="https://elioenai-goncalves.github.io/portfolio/" target="_blank"><img src="./src/image/image portfolio.png" alt="image portfolio" height="30" width="100">
+
 <div>
   <a href="https://instagram.com/elioenai.goncalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Elioegan#2148" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
