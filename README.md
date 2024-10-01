@@ -13,6 +13,12 @@
   <img align="center" alt=".NET" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt=".NET Core" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="C Sharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="Nodemon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img align="center" alt="Express.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="Prisma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">
+  <img align="center" alt="Swagger" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="React Router" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg">
