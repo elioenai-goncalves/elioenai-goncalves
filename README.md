@@ -13,15 +13,20 @@
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="jQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="React Router" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg">
+  <img align="center" alt="Axios" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
   <img align="center" alt=".NET" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt=".NET Core" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="C Sharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Nodemon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg">
-  <img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Express.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
   <img align="center" alt="Prisma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">
+  <img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="NHibernate" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nhibernate/nhibernate-original-wordmark.svg">
   <img align="center" alt="Entity Framework Core" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
@@ -29,20 +34,15 @@
   <img align="center" alt="PL/SQL Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Swagger" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg">
   <img align="center" alt="Postman" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="React Router" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg">
-  <img align="center" alt="Axios" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
   <img align="center" alt="Vite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg">
   <img align="center" alt="Vitest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg">
   <img align="center" alt="ESLint" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-plain-wordmark.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="NPM" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Bitbucket" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg">
   <img align="center" alt="Jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="JIRA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg">
+  <img align="center" alt="NPM" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="SSH" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg">
